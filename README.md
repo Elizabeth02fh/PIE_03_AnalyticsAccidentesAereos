@@ -1,6 +1,4 @@
-# **PROYECTO INDIVIDUAL_03**
-
-# **Data Analyst -**  tema: Accidentes de Aviones y Dashboard
+# **PROYECTO INDIVIDUAL_03**, **Data Analyst -**  tema: Accidentes de Aviones y Dashboard
 ## **Contexto del Proyecto Individual**
 
 En estre proyecto se ha trabajado con un dataset sobre datos de accidentes de aviones, la data proviene de 
