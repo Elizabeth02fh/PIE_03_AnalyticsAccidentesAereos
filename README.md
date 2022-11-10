@@ -1,4 +1,4 @@
-# **PROYECTO INDIVIDUAL**
+# **PROYECTO INDIVIDUAL_03**
 
 # **Data Analyst -**  tema: Accidentes de Aviones y Dashboard
 ## **Contexto del Proyecto Individual**
