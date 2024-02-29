@@ -6,10 +6,7 @@ la **Organización de Aviación Civil Internacional (OACI)**, en este proyecto s
 ![avion_fondo_transparente](https://user-images.githubusercontent.com/103965538/201096411-b6387bc3-5006-448b-8733-bce89ddbc073.png)
 
 
-​
-1.637 / 5.000
-Resultados de traducción
-Resultado de traducción
+
 ## **Proceso de proyecto individual**
 Se han llevado a cabo los siguientes pasos:
 
